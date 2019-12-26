@@ -1,0 +1,22 @@
+{
+  "name": "game_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fake_game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odraude1022/repl_game_examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odraude1022/repl_game_examples/issues"
+  },
+  "homepage": "https://github.com/odraude1022/repl_game_examples#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
